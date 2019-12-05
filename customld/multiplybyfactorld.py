@@ -14,7 +14,7 @@ import inspect
    # Specify the URL to your package here..
    # This URL must be accessible via pip install
    
-   PACKAGE_URL = 'git+https://github.com/luaithren/testcustom@'
+   PACKAGE_URL = 'git+https://github.com/luaithren/testcustom@starter_package'
 
    class MultiplyByFactorLD(BaseTransformer):
 
